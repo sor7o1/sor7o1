@@ -1,0 +1,4 @@
+- Hola, Soy Angel Sorto.
+- Desarrollador FullStack.
+- Desarrollador Movil
+- Actualmente estoy aprendiendo Arquitectura Limpia para el desarrollo en flutter.
